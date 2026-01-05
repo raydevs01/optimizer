@@ -23,4 +23,4 @@ We do not use any third-party analytics, tracking, or advertising services.
 Any updates to this privacy policy will be reflected in future extension updates.
 
 ## Contact
-For questions or concerns, please visit: [https://chrome.google.com/webstore (search "Optimized")](https://chromewebstore.google.com/detail/optimized-ram-manager/mahgcggahcbplkpmpmhdnbdjbcnoafcg)
+For questions or concerns, please visit: [oOPTIMIZED.](https://chromewebstore.google.com/detail/optimized-ram-manager/mahgcggahcbplkpmpmhdnbdjbcnoafcg)
